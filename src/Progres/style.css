@@ -1,0 +1,11 @@
+.Progres {
+ position: relative;
+ height: 50px;
+ width: 80%;
+}
+
+.Progres_percent {
+    height: 50px;
+    position: absolute;
+    background-color: royalblue;
+}
